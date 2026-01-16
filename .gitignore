@@ -35,3 +35,4 @@ build/*
 .history/*
 .vscode/*
 checks.json
+.fake
